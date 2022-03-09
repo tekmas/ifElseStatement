@@ -2,7 +2,7 @@ package day08_ifElseIfStatements;
 
 import java.util.Scanner;
 
-public class examples {
+public class Examples {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("lütfen çizdiğiniz dörtgenin ardışık kenarlarından ilk kenar uzunluğunu girin");
